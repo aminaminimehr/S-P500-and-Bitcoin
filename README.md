@@ -1,1 +1,1 @@
-# S-P500-and-Bitcoin
+# SP500-and-Bitcoin
