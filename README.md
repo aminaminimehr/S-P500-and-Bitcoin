@@ -34,8 +34,8 @@ Data for this experiment was collected from **05/01/2022** to **01/09/2025**.
 ---
 
 ## Key Findings
-- **Correlation Coefficient**: A simple correlation analysis reveals a **25.5% correlation** between Bitcoin’s weekend returns and the S&P 500’s Monday returns.
-- **Sign Test**: A sign test shows that in **56.7% of cases**, the sign of Bitcoin’s weekend return aligns with the sign of the S&P 500’s Monday return. This is significantly higher than the probability of a random coin toss (50%).
+- **Correlation Coefficient**: A simple correlation analysis reveals a **31.3% correlation** between Bitcoin’s weekend returns and the S&P 500’s Monday returns.
+- **Sign Test**: A sign test shows that in **60.8% of cases**, the sign of Bitcoin’s weekend return aligns with the sign of the S&P 500’s Monday return. This is significantly higher than the probability of a random coin toss (50%).
 
 ---
 
