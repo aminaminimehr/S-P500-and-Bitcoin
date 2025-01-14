@@ -1,7 +1,7 @@
 # SP500-and-Bitcoin
 
 <div align="center">
-  <img src="images/btc_sp500_scatter_plot.png" alt="Scatter Plot of BTCUSD vs S&P 500" width="600"/>
+  <img src="btc_sp500_scatter_plot.png" alt="Scatter Plot of BTCUSD vs S&P 500" width="600"/>
 </div>
 
 ## Overview
