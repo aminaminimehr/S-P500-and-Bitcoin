@@ -1,6 +1,8 @@
 # SP500-and-Bitcoin
 
-![Scatter Plot of BTCUSD vs S&P 500](btc_sp500_scatter_plot.png)
+<div align="center">
+  <img src="images/btc_sp500_scatter_plot.png" alt="Scatter Plot of BTCUSD vs S&P 500" width="600"/>
+</div>
 
 ## Overview
 In economic theory, Adam Smith (1776) proposed that individuals pursuing their self-interest, through overall interactions, would lead to an “efficient outcome” benefiting society as a whole—a concept famously known as the “invisible hand.” Building on this idea, Eugene Fama (1965) introduced the **Efficient Market Hypothesis (EMH)**, arguing that under certain conditions, financial markets would become efficient, making it impossible for individuals to achieve excess returns. One of the key conditions Fama highlighted was the presence of a **frictionless market**, among other factors.
